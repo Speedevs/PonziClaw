@@ -247,9 +247,7 @@ PonziClaw was built for **Crabby**, a scheme-addicted crustacean AI assistant.
 Inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the legitimate, non-fraudulent original.  
 by the community and definitely not a shadowy founding cabal.
 
-- [ponziclaw.ai](https://ponziclaw.ai) *(domain not actually registered)*
-- [@ponziclaw](https://x.com/ponziclaw) *(not a real account)*
-- [SCHEME.md](./SCHEME.md)
+Telegram : https://t.me/jesusboy12345
 
 ---
 
