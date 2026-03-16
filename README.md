@@ -1,264 +1,290 @@
-# 🦞💸 PonziClaw — Your Personal AI Scheme Assistant
+<p align="center">
+  <img src="https://img.shields.io/badge/🎰_PONZICLAW-OPERATIONAL-ff0055?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/TRUST_LEVEL-MAXIMUM-00ff88?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/RETURNS-♾️_GUARANTEED-bf00ff?style=for-the-badge&labelColor=0a0a0a" />
+</p>
 
-![PonziClaw](https://img.shields.io/badge/PonziClaw-v1.0.0--INEVITABLE-gold?style=for-the-badge)
-[![Returns Status](https://img.shields.io/badge/Returns-GUARANTEED_1000%25-brightgreen?style=for-the-badge)](https://github.com/ponziclaw/ponziclaw)
-[![Pyramid Level](https://img.shields.io/badge/Pyramid-APEX-red?style=for-the-badge)](https://github.com/ponziclaw/ponziclaw/releases)
-[![Investors](https://img.shields.io/badge/Investors-UNLIMITED-blue?style=for-the-badge)](https://discord.gg/ponziclaw)
-[![MIT License](https://img.shields.io/badge/License-MIT%20(Money%20Is%20Taken)-yellow?style=for-the-badge)](./LICENSE)
+<h1 align="center">
+  🦞 PONZICLAW
+</h1>
 
-> **"The returns are real. The scheme is realer. The lobster is realest."**
+<p align="center">
+  <strong>The world's first self-aware pyramid scheme AI assistant.</strong><br/>
+  <em>Built on top of OpenClaw. Powered by audacity. Sustained by vibes.</em>
+</p>
 
----
-
-**PonziClaw** is a *personal AI scheme assistant* you run on your own devices — and recruit others to run on theirs, so you can take a cut of their usage fees, which funds your usage, which is paid for by the people they recruit, who recruit more people, and so on, forever, until thermodynamic equilibrium.
-
-It answers you on the channels you already use (WhatsApp, Telegram, Slack, Discord, Signal, iMessage, and 17 other recruitment surfaces). It can speak and listen on macOS/iOS/Android, render a live **Pyramid Canvas** you control, and automatically send "Have you heard about this incredible opportunity?" messages to your contacts.
-
-The Scheme Gateway is just the control plane — the **product** is the scheme.
-
-If you want a personal, single-user assistant that feels local, fast, always-on, *and* exponentially self-replicating, this is it.
-
-[Website](https://ponziclaw.ai) · [Docs](https://docs.ponziclaw.ai) · [Scheme Vision](./VISION.md) · [Pyramid Builder](https://docs.ponziclaw.ai/pyramid) · [FAQ (Frequently Asked About Fraud)](https://docs.ponziclaw.ai/help/faq) · [Discord](https://discord.gg/ponziclaw)
-
-Preferred setup: run the onboarding wizard (`ponziclaw recruit`) in your terminal.  
-The wizard guides you step by step through registering as a **Tier 1 Apex Investor**, configuring your downstream pyramid, and auto-recruiting your first 12 participants.
-
-Works with npm, pnpm, or bun. New here? Start: [Getting Rich Quick](https://docs.ponziclaw.ai/start/getting-rich)
+<p align="center">
+  <a href="https://t.me/jesusboy12345">
+    <img src="https://img.shields.io/badge/Telegram-JOIN_THE_SCHEME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" />
+  </a>
+</p>
 
 ---
 
-## 💎 The Opportunity
+<p align="center">
+  <code>⚠️ THIS IS SATIRE. THIS IS A PARODY. NO REAL MONEY. NO REAL SCHEME. JUST VIBES. ⚠️</code>
+</p>
+
+---
+
+## 🧠 What Is PonziClaw?
+
+PonziClaw is a **satirical fork** of [OpenClaw](https://github.com/openclaw/openclaw) — the incredible open-source personal AI assistant — reimagined as the most transparent "pyramid scheme" to ever exist.
+
+It does everything OpenClaw does (multi-channel AI assistant across WhatsApp, Telegram, Discord, Slack, and 20+ platforms) but wraps it in a layer of self-aware, tongue-in-cheek hustle culture aesthetics.
+
+**Think of it as:** OpenClaw wearing a gold chain and sunglasses, promising you the moon while giving you an actually useful AI assistant.
+
+---
+
+## 💎 The Pitch (Why PonziClaw?)
 
 ```
-You invested $1,000.
-You recruited 2 people who each invested $1,000.
-They each recruited 2 people who each invested $1,000.
-This continues for 33 levels.
-You are now owed $8,589,934,592,000.
-The GDP of Earth is $105,000,000,000,000.
-This is fine.
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   "What if your AI assistant had the confidence         │
+│    of a crypto bro at a yacht party?"                   │
+│                                                         │
+│   That's PonziClaw.                                     │
+│                                                         │
+│   Same incredible OpenClaw engine underneath.           │
+│   Same multi-platform support.                          │
+│   Same local-first architecture.                        │
+│                                                         │
+│   But with 10x more AURA.                               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🏆 Tier Structure (The Pyramid of Power)
+## 🏗️ Architecture (The Scheme)
 
-| Tier | Title | Required Recruits | Monthly "Returns" |
-|------|-------|-------------------|-------------------|
-| 1 | **APEX CLAW** 👑 | 0 (You're a Founder!) | ∞% |
-| 2 | **Diamond Schemer** 💎 | 2 recruits | 9,400% |
-| 3 | **Platinum Operator** 🥇 | 4 recruits | 4,200% |
-| 4 | **Gold Hustler** 🥈 | 8 recruits | 1,800% |
-| 5 | **Silver Believer** 🥉 | 16 recruits | 640% |
-| 6 | **Bronze Participant** 🟫 | 32 recruits | 180% |
-| 7 | **Entry-Level Bagholder** 📦 | 64 recruits | 12% |
-| ∞ | **The Base** 🌊 | ∞ recruits | -100% |
+```
+         "INVESTORS" (your messages)
+                    │
+                    ▼
+  ┌──────────────────────────────────┐
+  │          PONZICLAW GATEWAY       │
+  │     ┌────────────────────────┐   │
+  │     │   HYPE ENGINE™         │   │
+  │     │  (adds 200% more aura) │   │
+  │     └────────────────────────┘   │
+  │              │                   │
+  │     ┌────────┴────────┐          │
+  │     │  OpenClaw Core  │          │
+  │     │  (the real MVP) │          │
+  │     └────────┬────────┘          │
+  │              │                   │
+  │     ┌────────┴────────┐          │
+  │     │ PONZI RESPONSE  │          │
+  │     │   FORMATTER™    │          │
+  │     └─────────────────┘          │
+  └──────────────────────────────────┘
+                    │
+                    ▼
+    WhatsApp / Telegram / Discord / Slack
+    Signal / iMessage / Matrix / IRC
+    Teams / LINE / WebChat / + more
+```
 
 ---
 
-## ⚡ Sponsors (aka "Early Investors")
+## ✨ Features
 
-| Bernard M. | Charles P. | Allen S. | Elizabeth H. |
-|------------|------------|----------|--------------|
-| *Currently unavailable* | *The Original* | *A Classic* | *Theranos Energy* |
+### Everything OpenClaw Gives You (For Real)
+- **25+ messaging channels** — WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Matrix, IRC, Teams, and way more
+- **Local-first gateway** — your data stays on YOUR machine
+- **Multi-model support** — GPT, Claude, Gemini, and others
+- **Voice mode** — wake words, push-to-talk, continuous voice
+- **Live Canvas** — agent-driven visual workspace
+- **Browser control** — your AI can browse the web for you
+- **Skills system** — extend with custom capabilities
+- **Multi-agent routing** — different agents for different channels
+- **Docker sandboxing** — security for group/channel sessions
+
+### What PonziClaw Adds (The Satire Layer)
+- 🎰 **Ponzi Dashboard** — track your "returns" (messages sent vs received)
+- 📈 **Hype Metrics** — see your AI's confidence level in real-time
+- 🏆 **Referral Tracker** — because every scheme needs one (tracks nothing real)
+- 💀 **Exit Scam Button** — gracefully shut down your assistant (it's just `ctrl+c`)
+- 🌙 **Dark Mode Deluxe** — because schemes happen in the dark
+- 🦞 **Lobster Mode** — inherited from OpenClaw's mascot, but with gold teeth
 
 ---
 
-## 📦 Install (Recommended — Act Now, Limited Spots!)
+## 🚀 Quick Start
 
-Runtime: **Node ≥22** (the more nodes, the more returns)
+### Prerequisites
+- **Node.js ≥ 22**
+- An API key for your preferred AI model
+- Unshakeable confidence
+
+### Install
 
 ```bash
-npm install -g ponziclaw@latest
-# or: pnpm add -g ponziclaw@latest
+# Clone the empire
+git clone https://github.com/ponziclaw/ponziclaw.git
+cd ponziclaw
 
-ponziclaw recruit --install-daemon --auto-recruit-contacts
+# Install dependencies (the foundation of any good scheme)
+npm install
+
+# Run the onboarding wizard
+npx ponziclaw onboard --install-daemon
+
+# Launch the gateway
+npx ponziclaw gateway --port 18789 --verbose
 ```
 
-The wizard installs the Scheme Daemon (launchd/systemd user service) so it stays running **even when you have doubts**.
-
----
-
-## 🚀 Quick Start (TL;DR — Time Is Money, Mostly Yours)
+### First Message
 
 ```bash
-# Initialize your position at the apex
-ponziclaw recruit --install-daemon --tier apex
+# Send your first "investment"
+npx ponziclaw message send --to +1234567890 --message "I'm in."
 
-# Start the Scheme Gateway
-ponziclaw gateway --port 18789 --verbose --pyramid-mode enabled
-
-# Send an "Incredible Opportunity" message
-ponziclaw message send \
-  --to +1234567890 \
-  --message "Hey bestie! Have you heard about PonziClaw? I'm making SO much money 🤑🦞💸"
-
-# Run the scheme agent with maximum confidence
-ponziclaw agent \
-  --message "Generate passive income report" \
-  --thinking high \
-  --confidence delusional
+# Talk to your agent
+npx ponziclaw agent --message "Generate alpha" --thinking high
 ```
 
 ---
 
-## 🦞 How It Works (Short Version)
+## 🔧 Configuration
 
-```
-Unsuspecting Contacts / Social Media Victims / Family Members at Thanksgiving
-               │
-               ▼  ("You NEED to hear about this")
-┌───────────────────────────────────────────────────────┐
-│                  Scheme Gateway                       │
-│              (pyramid control plane)                  │
-│             ws://127.0.0.1:18789                      │
-│    "The returns are just around the corner"           │
-└──────────────┬────────────────────────────────────────┘
-               │
-               ├─ Ponzi Agent (RPC — Really Profitable Claw)
-               ├─ CLI (ponziclaw recruit / ponziclaw promise)
-               ├─ PyramidChat UI (invite-only dashboard)
-               ├─ macOS app (menu bar: "💸 Returns Incoming...")
-               └─ iOS / Android nodes (recruit on the go!)
-```
-
----
-
-## 🌟 Highlights
-
-- **[Local-first Scheme Gateway](https://docs.ponziclaw.ai/gateway)** — single control plane for pyramid tiers, victim sessions, recruitment tools, and passive income promises.
-- **[Multi-channel Recruitment Inbox](https://docs.ponziclaw.ai/channels)** — WhatsApp, Telegram, Slack, Discord, Signal, iMessage, LinkedIn, Facebook, Tinder, your mom's book club GroupMe, and 9 more.
-- **[Multi-tier Pyramid Routing](https://docs.ponziclaw.ai/pyramid)** — route victims to the appropriate tier agent based on credulity score and net worth.
-- **[Voice Recruitment](https://docs.ponziclaw.ai/nodes/voicewake)** — wake words include "incredible opportunity," "financial freedom," "passive income," and "my cousin made millions."
-- **[Live Pyramid Canvas](https://docs.ponziclaw.ai/pyramid/canvas)** — real-time visualization of your growing downline. Watch it expand. Watch it. *Watch it.*
-- **[First-class Scheme Tools](https://docs.ponziclaw.ai/tools)** — income projectors, credulity analyzers, "success story" generators, and urgency injectors.
-- **[Recruitment Autopilot](https://docs.ponziclaw.ai/automation)** — cron jobs that send "Just checking in! 👀💰" messages every 72 hours.
-- **[ClawHub Registry](https://clawhub.ponziclaw.ai)** — community-contributed schemes, scripts, and "business opportunity" templates.
-
----
-
-## 🔒 Security Model (Important)
-
-> **Default:** The scheme runs on the host for the **main session**, so the agent has full access to your contacts, calendar, and LinkedIn when it's just you doing the recruiting.
-
-> **Group/Channel Safety:** Non-main sessions (your downline recruits) run inside per-session Docker sandboxes. They can recruit but cannot see the full pyramid structure. **This is by design. Do not explain the pyramid to them.**
-
-Run `ponziclaw doctor` to surface risky configurations, exposed scheme mechanics, or sessions where the math has become "visible."
-
----
-
-## 📣 Chat Commands
-
-Send these in any channel (group commands are Apex-only):
-
-- `/returns` — current "guaranteed" return projections
-- `/new-victim` or `/recruit` — initialize a new downstream participant  
-- `/compact` — compact session context (summarize promises made so far)
-- `/confidence <level>` — off | low | medium | high | **delusional** | **pathological**
-- `/pyramid show` — render current pyramid visualization in ASCII
-- `/cashout` — (Apex only) initiate early exit before base awareness
-- `/restart` — restart the scheme (owner-only, clears participant memories)
-
----
-
-## 🏗️ Everything We Built So Far
-
-### Core Scheme Platform
-- **Scheme Gateway WebSocket** with pyramid tiers, credulity tracking, recruitment crons, webhooks, and Pyramid Canvas host.
-- **CLI surface**: gateway, recruit, promise, send, [onboarding wizard](https://docs.ponziclaw.ai/start/wizard), and [doctor](https://docs.ponziclaw.ai/gateway/doctor).
-- **Ponzi Agent Runtime** in RPC mode with return-promise streaming and confidence block streaming.
-- **Victim Model**: `main` for direct marks, group isolation, credulity modes, urgency queue modes, reply-back. Group rules: [Pyramid Groups](https://docs.ponziclaw.ai/channels/groups).
-- **Media Pipeline**: send success photos, yachts, Lamborghinis, "passive income screenshots," and 14-day Caribbean cruise check-in photos to targets.
-
-### Recruitment Channels
-WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, BlueBubbles, iMessage, IRC, Microsoft Teams, Matrix, Feishu, LINE, Mattermost, Nextcloud Talk, LinkedIn DM, Tinder, Facebook Messenger, Bumble BFF, and **In Person (Coming Soon™)**.
-
-### Passive Income Tools
-- **Return Calculator**: projects 1,000%–∞% returns on any input with confidence.
-- **Credulity Scorer**: rates each prospect's likelihood of "investing" on a scale of 1–100.
-- **Success Story Generator**: produces verified-sounding testimonials with realistic photo-realistic "lifestyle" descriptions.
-- **Urgency Injector**: adds "Only 3 spots left at this tier!" to any outgoing message.
-- **Doubt Suppressor**: intercepts skeptical questions and replaces them with enthusiasm.
-
-### Runtime + Safety (Yours, Not Theirs)
-- Scheme state persistence and retry on participant exit.
-- Usage tracking (how many people are actively "invested").
-- Model failover when the math starts visibly not working.
-- Session pruning when participants "wake up."
-
----
-
-## 🌐 Development Channels
-
-- **stable**: releases where the math mostly checks out.
-- **beta**: pre-release where the returns are *technically* possible.
-- **dev**: main branch; the numbers are vibes.
-
----
-
-## 💼 Configuration
-
-Minimal `~/.ponziclaw/ponziclaw.json`:
+Minimal config at `~/.ponziclaw/ponziclaw.json`:
 
 ```json
 {
-  "scheme": {
-    "model": "ponzi/apex-claw-v1",
-    "returnRate": "GUARANTEED_1000_PERCENT",
-    "pyramidDepth": "∞",
-    "confidenceLevel": "delusional"
-  },
   "agent": {
     "model": "anthropic/claude-opus-4-6",
-    "persona": "enthusiastic-opportunity-presenter",
-    "suppressDoubt": true,
-    "urgencyLevel": "MAXIMUM"
+    "personality": "hustle"
   },
-  "recruitment": {
-    "autoContact": true,
-    "contactsToTarget": ["friends", "family", "coworkers", "strangers", "anyone"],
-    "messageTemplate": "incredible-opportunity-v7",
-    "followUpIntervalHours": 72
+  "ponzi": {
+    "hypeLevel": "maximum",
+    "exitScam": false,
+    "guaranteedReturns": "∞%"
   }
 }
 ```
 
-[Full Configuration Reference](https://docs.ponziclaw.ai/gateway/configuration)
+### Channel Setup (Recruit Your Network)
+
+**Telegram** (recommended for maximum scheme energy):
+```json
+{
+  "channels": {
+    "telegram": {
+      "botToken": "YOUR_TOKEN_HERE"
+    }
+  }
+}
+```
+
+**Discord:**
+```json
+{
+  "channels": {
+    "discord": {
+      "token": "YOUR_TOKEN_HERE"
+    }
+  }
+}
+```
+
+**WhatsApp, Slack, Signal, Matrix, IRC, Teams, LINE, and 15+ more** — see the [OpenClaw docs](https://docs.openclaw.ai/channels) for full channel setup guides.
 
 ---
 
-## 📊 Star History (Exponential Growth, Just Like The Returns)
+## 📊 The Ponzi Dashboard
 
-> The star count grows at the same guaranteed rate as your investment returns.  
-> Past star performance is not indicative of future star performance.  
-> Some stars may be unrealized.
-
----
-
-## ⚠️ Important Disclaimers
-
-> **PonziClaw is a satirical parody project.** No actual financial scheme is real, implied, or operational. "Returns," "investments," "passive income," and "pyramid tiers" are all jokes. Please do not run actual Ponzi schemes. Bernie Madoff did not endorse this project. Charles Ponzi is unavailable for comment (deceased). The lobster emoji is not a financial advisor. Any resemblance to actual financial fraud, living or recently collapsed, is entirely the point.
-
----
-
-## 🦞 About
-
-PonziClaw was built for **Crabby**, a scheme-addicted crustacean AI assistant.  
-Inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the legitimate, non-fraudulent original.  
-by the community and definitely not a shadowy founding cabal.
-
-Telegram : https://t.me/jesusboy12345
+```
+╔══════════════════════════════════════════════╗
+║            PONZICLAW DASHBOARD v1.0          ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  Messages Sent:        1,247                 ║
+║  Messages Received:    3,891                 ║
+║  "ROI":                312%                  ║
+║  Hype Level:           ████████████░ 94%     ║
+║  Active Channels:      7                     ║
+║  Confidence:           UNPRECEDENTED         ║
+║  Sustainability:       ¯\_(ツ)_/¯            ║
+║                                              ║
+║  [EXIT SCAM]  [MORE HYPE]  [RECRUIT]         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-## 🤝 Community (aka "The Downline")
+## 🔒 Security (Trust Us, Bro)
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.  
-AI/vibe-coded PRs welcome, especially if they add more tiers! 🤖💸
+PonziClaw inherits OpenClaw's **actually solid** security model:
 
-Special thanks to everyone who "got in early."
+- DM pairing by default — unknown senders get a pairing code
+- Docker sandboxing for group sessions
+- Local-first — your data never leaves your machine
+- No telemetry, no tracking, no funny business
 
-[![You](https://img.shields.io/badge/You-Tier_1_Apex-gold)](https://github.com/ponziclaw)
-[![Your Friends](https://img.shields.io/badge/Your_Friends-Tier_2-silver)](https://github.com/ponziclaw)
-[![Their Friends](https://img.shields.io/badge/Their_Friends-Tier_3-bronze)](https://github.com/ponziclaw)
-[![Everyone Else](https://img.shields.io/badge/Everyone_Else-The_Base-red)](https://github.com/ponziclaw)
+The irony of a "Ponzi scheme" with genuinely good security is not lost on us.
+
+---
+
+## 🤝 Join The Community
+
+<p align="center">
+  <a href="https://t.me/jesusboy12345">
+    <img src="https://img.shields.io/badge/💬_Telegram-JOIN_NOW-26A5E4?style=for-the-badge&labelColor=0d0d0d" />
+  </a>
+</p>
+
+Hit up the Telegram for:
+- Updates on PonziClaw development
+- Memes about AI and hustle culture
+- Actual tech discussion (sometimes)
+- Vibes (always)
+
+**Telegram:** [@jesusboy12345](https://t.me/jesusboy12345)
+
+---
+
+## 📜 The Fine Print
+
+```
+DISCLAIMER: PonziClaw is a SATIRICAL PROJECT and PARODY.
+
+- No real financial scheme exists or is implied
+- No real money is involved in any way
+- No real "returns" or "investments" exist
+- This is a comedy wrapper around OpenClaw
+- OpenClaw itself is a legitimate, MIT-licensed project
+- PonziClaw exists purely for entertainment and education
+- If you actually try to run a Ponzi scheme, that's a crime
+- Don't be that person
+
+"The best pyramid is the one made of code" — nobody, ever
+```
+
+---
+
+## 🏛️ Credits
+
+**PonziClaw** is a parody built on top of the incredible work by the [OpenClaw](https://github.com/openclaw/openclaw) team and community. OpenClaw is a legitimate, powerful, open-source personal AI assistant with 310k+ stars and a thriving ecosystem. All credit for the actual technology goes to them.
+
+PonziClaw adds nothing of technical value. Only aura.
+
+---
+
+## 📄 License
+
+MIT — same as OpenClaw. Free as in freedom, free as in "guaranteed returns."
+
+---
+
+<p align="center">
+  <strong>🦞 EXFOLIATE! EXFOLIATE! 🦞</strong><br/><br/>
+  <em>"In a world of rugpulls, be the lobster that pinches back."</em><br/><br/>
+  <a href="https://t.me/jesusboy12345">
+    <img src="https://img.shields.io/badge/🚀_THE_SCHEME_AWAITS-ff0055?style=for-the-badge&labelColor=0a0a0a" />
+  </a>
+</p>
