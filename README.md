@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  🦞 PONZICLAW v2.0
+  🦞 PONZICLAW v6
 </h1>
 
 <p align="center">
@@ -41,52 +41,51 @@ It ships with a **full-color CLI** with animated dashboards, fake tokenomics, a 
 
 ---
 
-## ⚡ Quick Start (How To Run It)
+## Quick Start
 
 ### Prerequisites
 
-- **Node.js ≥ 18** — [Download here](https://nodejs.org/)
+- **Node.js >= 18** — [Download here](https://nodejs.org/)
 - A terminal that supports ANSI colors (most modern terminals do)
 - Unshakeable confidence
 
-### Installation
+### Install & Launch
 
 ```bash
-# 1. Unzip (if you downloaded the zip)
+# Unzip and enter
 unzip ponziclaw.zip
 cd ponziclaw
 
-# 2. That's it. Zero dependencies. No npm install needed.
-#    PonziClaw is built with zero external packages.
+# Launch the interactive dashboard (this is all you need)
+npm start
 ```
 
-### Run CLI Commands
+That's it. `npm start` opens a colorful numbered menu. Type a number and hit Enter.
 
-```bash
-# Show the main help menu (all commands)
-node src/index.js
+### First Steps in the Dashboard
 
-# Or use specific commands:
-node src/index.js dashboard      # 📊 Ponzi Dashboard with live* metrics
-node src/index.js scheme         # 🎰 Scheme status & roadmap with pyramid
-node src/index.js recruit        # 🤝 Your referral network & stats
-node src/index.js portfolio      # 💼 Fictional token portfolio tracker
-node src/index.js hype           # 🔥 Animated hype generator
-node src/index.js leaderboard    # 🏆 Top participants leaderboard
-node src/index.js rugpull        # 💀 Rugpull simulator (educational)
-node src/index.js tokenomics     # 📊 $CLAW tokenomics breakdown
-node src/index.js exit-scam      # 🚪 Attempt to exit scam (it fails)
+```
+40  Setup AI Key        -- Connect Anthropic/OpenAI/Kimi/Gemini/Groq/DeepSeek
+41  Setup Telegram Bot  -- Connect @BotFather token
+42  Setup Discord Bot   -- Connect Discord bot token
+ 6  Chat with AI        -- Talk to the Ponzi AI personality
+ 3  Scan PumpFun        -- Scan fake token launches
+ 5  AI Swarm            -- Run 5 AI agents simultaneously
+26  Profile/Rank        -- See your degen rank and XP
+27  Missions            -- 30 missions to complete
 ```
 
-### Using npm Scripts
+### Direct CLI Commands
 
 ```bash
-npm run dashboard                # Same as node src/index.js dashboard
-npm run scheme                   # Same as node src/index.js scheme
-npm run hype                     # Same as node src/index.js hype
-npm run rugpull                  # Same as node src/index.js rugpull
-npm run tokenomics               # Same as node src/index.js tokenomics
-npm run exit-scam                # Same as node src/index.js exit-scam
+npm start                    # Interactive dashboard with numbered menu
+npm run web                  # Web dashboard at http://localhost:3000
+npm run bot:telegram         # Start Telegram bot
+npm run bot:discord          # Start Discord bot
+npm run scan                 # PumpFun token scanner
+npm run swarm                # AI swarm (5 agents)
+npm run shill                # AI shill generator
+npm test                     # Run test suite
 ```
 
 ### Launch The Web Landing Page
